@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "WarzoneStats"
 include ':app'
 include ':core'
+include ':main-screen'
+include ':login'
